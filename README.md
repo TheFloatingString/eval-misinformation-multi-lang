@@ -24,4 +24,6 @@ This command clones the X-fact GitHub repository whose dataset we use; and insta
 
 ### Notebooks
 
-* `notebooks/cohere_results.ipynb`: set of results by using Cohere
+* `notebooks/cohere_results.ipynb`: set of results by using Cohere\
+* `notebooks/openai_results.ipynb`: set of results by using Cohere
+
