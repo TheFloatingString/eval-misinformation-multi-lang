@@ -1,4 +1,5 @@
 cohere
 tqdm
 pandas
+openai
 
